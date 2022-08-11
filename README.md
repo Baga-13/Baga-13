@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baga-13
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React js and Next js
+- 🌱 I’m currently a freelancer in React js and Next js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me osesebaga@gmail.com
 
